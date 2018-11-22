@@ -1,6 +1,16 @@
 [
   {
     "metadata": {
+      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
+      "publisherId": "CoenraadS.bracket-pair-colorizer",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer",
+    "publisher": "CoenraadS",
+    "version": "1.0.61"
+  },
+  {
+    "metadata": {
       "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
       "publisherId": "formulahendry.code-runner",
       "publisherDisplayName": "formulahendry"
