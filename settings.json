@@ -44,7 +44,7 @@
   "window.titleBarStyle": "custom",
   "git.autofetch": true,
   "php.suggest.basic": false,
-  "sync.gist": "",
+  "sync.gist": "c8858efbd5ef653e595c705d667580e6",
   "sync.autoDownload": true,
   "sync.autoUpload": true,
   "sync.forceDownload": true,
