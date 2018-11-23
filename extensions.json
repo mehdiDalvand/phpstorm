@@ -51,16 +51,6 @@
   },
   {
     "metadata": {
-      "id": "dda49fd5-1f3b-4d25-bf61-4fc41905ede5",
-      "publisherId": "humao.rest-client",
-      "publisherDisplayName": "humao"
-    },
-    "name": "rest-client",
-    "publisher": "humao",
-    "version": "0.20.3"
-  },
-  {
-    "metadata": {
       "id": "00518570-772b-4ccb-8b06-d056f3f556e0",
       "publisherId": "Tyriar.sort-lines",
       "publisherDisplayName": "Tyriar"
