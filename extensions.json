@@ -11,13 +11,13 @@
   },
   {
     "metadata": {
-      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
-      "publisherId": "vector-of-bool.cmake-tools",
-      "publisherDisplayName": "vector-of-bool"
+      "id": "f3b153f9-13ba-4992-9f90-1779d968df49",
+      "publisherId": "danielpinto8zz6.c-cpp-compile-run",
+      "publisherDisplayName": "danielpinto8zz6"
     },
-    "name": "cmake-tools",
-    "publisher": "vector-of-bool",
-    "version": "1.1.2"
+    "name": "c-cpp-compile-run",
+    "publisher": "danielpinto8zz6",
+    "version": "0.4.3"
   },
   {
     "metadata": {
@@ -48,16 +48,6 @@
     "name": "gitlens",
     "publisher": "eamodio",
     "version": "8.5.6"
-  },
-  {
-    "metadata": {
-      "id": "ced3fc99-2817-4ac0-a24a-87abfecbc359",
-      "publisherId": "ajshort.include-autocomplete",
-      "publisherDisplayName": "ajshort"
-    },
-    "name": "include-autocomplete",
-    "publisher": "ajshort",
-    "version": "0.0.4"
   },
   {
     "metadata": {
