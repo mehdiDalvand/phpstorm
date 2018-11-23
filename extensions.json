@@ -11,6 +11,16 @@
   },
   {
     "metadata": {
+      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
+      "publisherId": "vector-of-bool.cmake-tools",
+      "publisherDisplayName": "vector-of-bool"
+    },
+    "name": "cmake-tools",
+    "publisher": "vector-of-bool",
+    "version": "1.1.2"
+  },
+  {
+    "metadata": {
       "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
       "publisherId": "formulahendry.code-runner",
       "publisherDisplayName": "formulahendry"
@@ -41,13 +51,13 @@
   },
   {
     "metadata": {
-      "id": "044b4b31-2969-4af3-895d-855433b8b46d",
-      "publisherId": "felixfbecker.php-debug",
-      "publisherDisplayName": "felixfbecker"
+      "id": "ced3fc99-2817-4ac0-a24a-87abfecbc359",
+      "publisherId": "ajshort.include-autocomplete",
+      "publisherDisplayName": "ajshort"
     },
-    "name": "php-debug",
-    "publisher": "felixfbecker",
-    "version": "1.12.6"
+    "name": "include-autocomplete",
+    "publisher": "ajshort",
+    "version": "0.0.4"
   },
   {
     "metadata": {
