@@ -51,6 +51,16 @@
   },
   {
     "metadata": {
+      "id": "ca0094fa-0dc7-4847-ae5d-879442c099ca",
+      "publisherId": "neilbrayfield.php-docblocker",
+      "publisherDisplayName": "neilbrayfield"
+    },
+    "name": "php-docblocker",
+    "publisher": "neilbrayfield",
+    "version": "1.6.0"
+  },
+  {
+    "metadata": {
       "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
       "publisherId": "ms-python.python",
       "publisherDisplayName": "ms-python"
