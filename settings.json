@@ -3,7 +3,7 @@
         "suppressShowKeyBindingsNotice": true,
     },
     "editor.tabSize": 4,
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "onWindowChange",
     "workbench.startupEditor": "newUntitledFile",
     "php.validate.run": "onType",
     "files.eol": "\n",
