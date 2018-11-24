@@ -11,16 +11,6 @@
   },
   {
     "metadata": {
-      "id": "f3b153f9-13ba-4992-9f90-1779d968df49",
-      "publisherId": "danielpinto8zz6.c-cpp-compile-run",
-      "publisherDisplayName": "danielpinto8zz6"
-    },
-    "name": "c-cpp-compile-run",
-    "publisher": "danielpinto8zz6",
-    "version": "0.4.3"
-  },
-  {
-    "metadata": {
       "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
       "publisherId": "formulahendry.code-runner",
       "publisherDisplayName": "formulahendry"
@@ -68,16 +58,6 @@
     "name": "sort-lines",
     "publisher": "Tyriar",
     "version": "1.7.0"
-  },
-  {
-    "metadata": {
-      "id": "cb9cc98b-7140-4f13-b993-1e26c4a7bd42",
-      "publisherId": "Arjun.swagger-viewer",
-      "publisherDisplayName": "Arjun"
-    },
-    "name": "swagger-viewer",
-    "publisher": "Arjun",
-    "version": "2.1.0"
   },
   {
     "metadata": {
