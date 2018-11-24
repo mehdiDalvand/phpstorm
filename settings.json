@@ -52,5 +52,8 @@
   "sync.askGistName": false,
   "sync.removeExtensions": true,
 "sync.syncExtensions": true,
-"breadcrumbs.enabled": true
+"breadcrumbs.enabled": true,
+"editor.selectionClipboard": false
+
+
 }
