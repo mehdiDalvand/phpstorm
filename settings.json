@@ -33,7 +33,7 @@
     // "java.errors.incompleteClasspath.severity": "ignore",
     "emmet.includeLanguages": {
         "blade": "html",
-        "php": "html"
+        // "php": "html"
     },
     "search.exclude": {
         "**/node_modules": true,
