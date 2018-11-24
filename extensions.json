@@ -71,6 +71,16 @@
   },
   {
     "metadata": {
+      "id": "cb9cc98b-7140-4f13-b993-1e26c4a7bd42",
+      "publisherId": "Arjun.swagger-viewer",
+      "publisherDisplayName": "Arjun"
+    },
+    "name": "swagger-viewer",
+    "publisher": "Arjun",
+    "version": "2.1.0"
+  },
+  {
+    "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
       "publisherId": "robertohuertasm.vscode-icons",
       "publisherDisplayName": "robertohuertasm"
