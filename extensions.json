@@ -41,16 +41,6 @@
   },
   {
     "metadata": {
-      "id": "1b747f06-3789-4ebd-ac99-f1fe430c3347",
-      "publisherId": "alefragnani.project-manager",
-      "publisherDisplayName": "alefragnani"
-    },
-    "name": "project-manager",
-    "publisher": "alefragnani",
-    "version": "9.1.0"
-  },
-  {
-    "metadata": {
       "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
       "publisherId": "ms-python.python",
       "publisherDisplayName": "ms-python"
