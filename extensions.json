@@ -31,16 +31,6 @@
   },
   {
     "metadata": {
-      "id": "816d44eb-5e28-431b-be81-2c52551d81ea",
-      "publisherId": "mitchdenny.ecdc",
-      "publisherDisplayName": "mitchdenny"
-    },
-    "name": "ecdc",
-    "publisher": "mitchdenny",
-    "version": "0.12.0"
-  },
-  {
-    "metadata": {
       "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
       "publisherId": "eamodio.gitlens",
       "publisherDisplayName": "eamodio"
