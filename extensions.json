@@ -11,16 +11,6 @@
   },
   {
     "metadata": {
-      "id": "f3b153f9-13ba-4992-9f90-1779d968df49",
-      "publisherId": "danielpinto8zz6.c-cpp-compile-run",
-      "publisherDisplayName": "danielpinto8zz6"
-    },
-    "name": "c-cpp-compile-run",
-    "publisher": "danielpinto8zz6",
-    "version": "0.4.3"
-  },
-  {
-    "metadata": {
       "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
       "publisherId": "formulahendry.code-runner",
       "publisherDisplayName": "formulahendry"
@@ -37,7 +27,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "3.2.0"
+    "version": "3.2.2"
   },
   {
     "metadata": {
@@ -48,6 +38,16 @@
     "name": "gitlens",
     "publisher": "eamodio",
     "version": "8.5.6"
+  },
+  {
+    "metadata": {
+      "id": "1b747f06-3789-4ebd-ac99-f1fe430c3347",
+      "publisherId": "alefragnani.project-manager",
+      "publisherDisplayName": "alefragnani"
+    },
+    "name": "project-manager",
+    "publisher": "alefragnani",
+    "version": "9.1.0"
   },
   {
     "metadata": {
@@ -68,16 +68,6 @@
     "name": "sort-lines",
     "publisher": "Tyriar",
     "version": "1.7.0"
-  },
-  {
-    "metadata": {
-      "id": "cb9cc98b-7140-4f13-b993-1e26c4a7bd42",
-      "publisherId": "Arjun.swagger-viewer",
-      "publisherDisplayName": "Arjun"
-    },
-    "name": "swagger-viewer",
-    "publisher": "Arjun",
-    "version": "2.1.0"
   },
   {
     "metadata": {
