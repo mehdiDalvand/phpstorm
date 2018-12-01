@@ -31,6 +31,16 @@
   },
   {
     "metadata": {
+      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+      "publisherId": "mikestead.dotenv",
+      "publisherDisplayName": "mikestead"
+    },
+    "name": "dotenv",
+    "publisher": "mikestead",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
       "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
       "publisherId": "eamodio.gitlens",
       "publisherDisplayName": "eamodio"
