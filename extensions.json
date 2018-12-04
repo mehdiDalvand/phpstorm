@@ -111,6 +111,16 @@
   },
   {
     "metadata": {
+      "id": "085342db-9568-49b0-ad93-3223ac4c1baa",
+      "publisherId": "mrmlnc.vscode-apache",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-apache",
+    "publisher": "mrmlnc",
+    "version": "1.1.1"
+  },
+  {
+    "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
       "publisherId": "robertohuertasm.vscode-icons",
       "publisherDisplayName": "robertohuertasm"
