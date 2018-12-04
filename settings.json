@@ -55,5 +55,4 @@
     "sync.syncExtensions": true,
     "breadcrumbs.enabled": true,
     "code-runner.runInTerminal": true
-
 }

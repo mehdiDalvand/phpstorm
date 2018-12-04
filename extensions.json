@@ -31,16 +31,6 @@
   },
   {
     "metadata": {
-      "id": "ce8be53e-b000-42d1-96bb-212fd23c67b4",
-      "publisherId": "HvyIndustries.crane",
-      "publisherDisplayName": "HvyIndustries"
-    },
-    "name": "crane",
-    "publisher": "HvyIndustries",
-    "version": "0.3.8"
-  },
-  {
-    "metadata": {
       "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
       "publisherId": "mikestead.dotenv",
       "publisherDisplayName": "mikestead"
@@ -57,7 +47,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "9.0.1"
+    "version": "8.5.6"
   },
   {
     "metadata": {
@@ -98,26 +88,6 @@
     "name": "sort-lines",
     "publisher": "Tyriar",
     "version": "1.7.0"
-  },
-  {
-    "metadata": {
-      "id": "cb9cc98b-7140-4f13-b993-1e26c4a7bd42",
-      "publisherId": "Arjun.swagger-viewer",
-      "publisherDisplayName": "Arjun"
-    },
-    "name": "swagger-viewer",
-    "publisher": "Arjun",
-    "version": "2.1.0"
-  },
-  {
-    "metadata": {
-      "id": "085342db-9568-49b0-ad93-3223ac4c1baa",
-      "publisherId": "mrmlnc.vscode-apache",
-      "publisherDisplayName": "mrmlnc"
-    },
-    "name": "vscode-apache",
-    "publisher": "mrmlnc",
-    "version": "1.1.1"
   },
   {
     "metadata": {
