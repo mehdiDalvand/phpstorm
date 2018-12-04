@@ -31,6 +31,16 @@
   },
   {
     "metadata": {
+      "id": "ce8be53e-b000-42d1-96bb-212fd23c67b4",
+      "publisherId": "HvyIndustries.crane",
+      "publisherDisplayName": "HvyIndustries"
+    },
+    "name": "crane",
+    "publisher": "HvyIndustries",
+    "version": "0.3.8"
+  },
+  {
+    "metadata": {
       "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
       "publisherId": "mikestead.dotenv",
       "publisherDisplayName": "mikestead"
@@ -47,7 +57,17 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "8.5.6"
+    "version": "9.0.1"
+  },
+  {
+    "metadata": {
+      "id": "4bf45e86-a448-4531-8c01-ef33f4536306",
+      "publisherId": "ms-mssql.mssql",
+      "publisherDisplayName": "ms-mssql"
+    },
+    "name": "mssql",
+    "publisher": "ms-mssql",
+    "version": "1.4.0"
   },
   {
     "metadata": {
@@ -57,7 +77,7 @@
     },
     "name": "project-manager",
     "publisher": "alefragnani",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   {
     "metadata": {
@@ -67,7 +87,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2018.10.1"
+    "version": "2018.11.0"
   },
   {
     "metadata": {
@@ -78,6 +98,16 @@
     "name": "sort-lines",
     "publisher": "Tyriar",
     "version": "1.7.0"
+  },
+  {
+    "metadata": {
+      "id": "cb9cc98b-7140-4f13-b993-1e26c4a7bd42",
+      "publisherId": "Arjun.swagger-viewer",
+      "publisherDisplayName": "Arjun"
+    },
+    "name": "swagger-viewer",
+    "publisher": "Arjun",
+    "version": "2.1.0"
   },
   {
     "metadata": {
