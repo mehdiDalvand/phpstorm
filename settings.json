@@ -54,5 +54,7 @@
     "sync.removeExtensions": true,
     "sync.syncExtensions": true,
     "breadcrumbs.enabled": true,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "workbench.activityBar.visible": true,
+    "window.menuBarVisibility": "default"
 }

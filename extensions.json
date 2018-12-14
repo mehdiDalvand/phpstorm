@@ -31,6 +31,16 @@
   },
   {
     "metadata": {
+      "id": "ce8be53e-b000-42d1-96bb-212fd23c67b4",
+      "publisherId": "HvyIndustries.crane",
+      "publisherDisplayName": "HvyIndustries"
+    },
+    "name": "crane",
+    "publisher": "HvyIndustries",
+    "version": "0.3.8"
+  },
+  {
+    "metadata": {
       "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
       "publisherId": "mikestead.dotenv",
       "publisherDisplayName": "mikestead"
@@ -47,7 +57,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "8.5.6"
+    "version": "9.0.3"
   },
   {
     "metadata": {
@@ -91,6 +101,26 @@
   },
   {
     "metadata": {
+      "id": "cb9cc98b-7140-4f13-b993-1e26c4a7bd42",
+      "publisherId": "Arjun.swagger-viewer",
+      "publisherDisplayName": "Arjun"
+    },
+    "name": "swagger-viewer",
+    "publisher": "Arjun",
+    "version": "2.1.0"
+  },
+  {
+    "metadata": {
+      "id": "085342db-9568-49b0-ad93-3223ac4c1baa",
+      "publisherId": "mrmlnc.vscode-apache",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-apache",
+    "publisher": "mrmlnc",
+    "version": "1.1.1"
+  },
+  {
+    "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
       "publisherId": "robertohuertasm.vscode-icons",
       "publisherDisplayName": "robertohuertasm"
@@ -108,5 +138,15 @@
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
     "version": "0.8.8"
+  },
+  {
+    "metadata": {
+      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+      "publisherDisplayName": "VisualStudioExptTeam"
+    },
+    "name": "vscodeintellicode",
+    "publisher": "VisualStudioExptTeam",
+    "version": "1.1.1"
   }
 ]
