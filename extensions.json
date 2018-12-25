@@ -31,6 +31,16 @@
   },
   {
     "metadata": {
+      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+      "publisherId": "streetsidesoftware.code-spell-checker",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker",
+    "publisher": "streetsidesoftware",
+    "version": "1.6.10"
+  },
+  {
+    "metadata": {
       "id": "ce8be53e-b000-42d1-96bb-212fd23c67b4",
       "publisherId": "HvyIndustries.crane",
       "publisherDisplayName": "HvyIndustries"

@@ -56,5 +56,9 @@
     "breadcrumbs.enabled": true,
     "code-runner.runInTerminal": true,
     "workbench.activityBar.visible": true,
-    "window.menuBarVisibility": "default"
+    "window.menuBarVisibility": "default",
+    "cSpell.userWords": [
+        "Avval",
+        "Ketab"
+    ]
 }
