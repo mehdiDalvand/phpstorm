@@ -22,9 +22,6 @@
         "I0011"
     ],
     "python.pythonPath": "/usr/bin/python3",
-    "code-runner.executorMap": {
-        "python": "python3"
-    },
     "vsicons.dontShowNewVersionMessage": true,
     "explorer.confirmDelete": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
@@ -55,10 +52,15 @@
     "sync.syncExtensions": true,
     "breadcrumbs.enabled": true,
     "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "python3",
+        "javascript": "nodemon"
+    },
     "workbench.activityBar.visible": true,
     "window.menuBarVisibility": "default",
     "cSpell.userWords": [
         "Avval",
         "Ketab"
-    ]
+    ],
+
 }
