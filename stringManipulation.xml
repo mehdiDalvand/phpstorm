@@ -2,7 +2,7 @@
   <component name="StringManipulationState">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="146" />
+        <option name="actionsExecuted" value="152" />
         <option name="lastNaggingDate" value="1548782596294" />
       </DonationNagger>
     </option>
@@ -18,7 +18,7 @@
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1548785164361" />
+          <option name="added" value="1548867666388" />
           <option name="separators">
             <list>
               <option value="=&gt;" />
