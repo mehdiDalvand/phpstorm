@@ -24,7 +24,12 @@
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CopyPaths" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
@@ -40,7 +45,9 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorDeleteLine" />
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -55,6 +62,9 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -62,6 +72,9 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="QuickImplementations" />
@@ -74,6 +87,9 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -81,12 +97,14 @@
   <action id="SendEOF" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UML.ApplyCurrentLayout" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
