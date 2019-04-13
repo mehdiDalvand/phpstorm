@@ -28,7 +28,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="MariaDB - @192.168.10.40" uuid="3c6134ae-daf3-413a-a300-435f8d95ee4b">
+    <data-source source="LOCAL" name="10 40" uuid="3c6134ae-daf3-413a-a300-435f8d95ee4b">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
