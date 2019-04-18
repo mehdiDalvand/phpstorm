@@ -6,7 +6,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
@@ -14,7 +13,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" />
@@ -22,7 +20,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
@@ -30,7 +27,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
@@ -38,7 +34,6 @@
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
@@ -46,7 +41,6 @@
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -54,7 +48,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -62,14 +55,16 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="mysql.8">
+      <artifact name="MySQL Connector/J 8" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
@@ -77,15 +72,15 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mariadb" dialect="MySQL">
-      <artifact name="MariaDB Connector J" use="true" version="2.2.1" />
+      <artifact name="MariaDB Connector J" use="true" version="2.4.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
@@ -93,7 +88,6 @@
       <option name="auto-commit" value="false" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
@@ -101,7 +95,6 @@
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
@@ -109,7 +102,6 @@
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
@@ -117,7 +109,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
@@ -125,7 +116,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
@@ -133,7 +123,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="sqlite.xerial">
       <artifact name="Xerial SQLiteJDBC" use="true" />
@@ -141,7 +130,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="exasol">
       <artifact name="Exasol" use="true" />
@@ -149,7 +137,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="clickhouse">
       <artifact name="ClickHouse" use="true" />
@@ -157,7 +144,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="cassandra">
       <artifact name="Cassandra" use="true" />
@@ -165,7 +151,19 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="vertica">
+      <artifact name="Vertica" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hive">
+      <artifact name="Hive" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="greenplum">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
   </component>
 </application>
