@@ -72,6 +72,7 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="MethodHierarchy" />
   <action id="Move">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
@@ -83,6 +84,9 @@
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
