@@ -42,7 +42,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prism_server" uuid="62694142-a03a-4937-800a-c70ca252facf">
+    <data-source source="LOCAL" name="prism_master" uuid="62694142-a03a-4937-800a-c70ca252facf">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
