@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="server" uuid="2c780ae3-7636-4a33-85ab-1f07b242d0f6">
+    <data-source source="LOCAL" name="platform" uuid="2c780ae3-7636-4a33-85ab-1f07b242d0f6">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
