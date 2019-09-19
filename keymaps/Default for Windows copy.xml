@@ -2,6 +2,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DecrementWindowHeight" />
   <action id="Editor Redo">
@@ -15,9 +16,18 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="IncrementWindowHeight" />
+  <action id="MethodHierarchy" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
