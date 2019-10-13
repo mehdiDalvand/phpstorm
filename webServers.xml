@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="024d0c92-4edd-45b1-870d-c419d550af46" name="develop" url="http://185.134.23.80">
-        <fileTransfer host="185.134.23.80" port="10916" rootFolder="/var/www" accessType="SFTP">
+      <webServer id="024d0c92-4edd-45b1-870d-c419d550af46" name="develop" url="http://185.134.23.88">
+        <fileTransfer host="185.134.23.88" port="10916" rootFolder="/home/hamoon" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
