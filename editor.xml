@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Courier New" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
