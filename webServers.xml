@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b305c4e0-3609-4f77-a954-e36c1a4dd76f" name="develop" url="">
+        <fileTransfer host="185.134.23.88" port="10916" rootFolder="/home/hamoon/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10916" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
