@@ -4,8 +4,27 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="DecrementWindowHeight" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollUp" />
+  <action id="IncrementWindowHeight" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
 </keymap>
