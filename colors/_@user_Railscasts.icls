@@ -3,7 +3,7 @@
     <property name="created">2020-03-14T09:06:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-14T14:11:02</property>
+    <property name="modified">۲۰۲۰-۰۳-۱۵T۱۸:۳۹:۴۹</property>
     <property name="originalScheme">Railscasts</property>
   </metaInfo>
   <colors>
@@ -1548,8 +1548,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffe500" />
         <option name="EFFECT_COLOR" value="ffe500" />
         <option name="ERROR_STRIPE_COLOR" value="ffe500" />
         <option name="EFFECT_TYPE" value="1" />
