@@ -17,6 +17,7 @@
   <action id="EditorDeleteLine" />
   <action id="EditorLookupUp" />
   <action id="EditorScrollUp" />
+  <action id="FocusEditor" />
   <action id="IncrementWindowHeight" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveStatementDown" />
@@ -27,4 +28,5 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
