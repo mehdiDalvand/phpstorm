@@ -18,10 +18,12 @@
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
@@ -61,8 +63,9 @@
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="INDENT_BREAK_FROM_CASE" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
