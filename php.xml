@@ -1,8 +1,0 @@
-<application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="41c960fe-d3c8-4024-9a79-e783f2f5737e" name="PHP 7.2" home="\usr\bin\php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="e9a1e349-f8e1-40a0-9f45-5914b12abdde" name="PHP 7.3" home="C:\php\php.exe" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
-</application>
