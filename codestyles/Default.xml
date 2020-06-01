@@ -2,7 +2,6 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
-    <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
@@ -10,13 +9,12 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
