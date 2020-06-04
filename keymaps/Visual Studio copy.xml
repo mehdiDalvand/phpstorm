@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="GotoBookmark0" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+</keymap>
