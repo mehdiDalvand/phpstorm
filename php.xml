@@ -74,4 +74,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="19694f08-8b71-4a62-8dea-e1ca6906b25e" load_method="PHPUNIT_PHAR" configuration_file_path="/mnt/c/Users/Matthew/Desktop/projects/dataak/social_actions/phpunit.xml" custom_loader_path="/usr/bin" phpunit_phar_path="/usr/bin/phpunit" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
