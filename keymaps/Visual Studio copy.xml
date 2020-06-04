@@ -1,5 +1,24 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="DecrementWindowHeight" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
   <action id="GotoBookmark0" />
+  <action id="IncrementWindowHeight" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
