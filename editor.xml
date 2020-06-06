@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code Medium" />
     <option name="SECONDARY_FONT_FAMILY" value="Courier New" />
   </component>
+  <component name="EditorSettings">
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
+  </component>
 </application>
