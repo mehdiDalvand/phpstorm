@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt divide" />
@@ -26,6 +29,10 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
