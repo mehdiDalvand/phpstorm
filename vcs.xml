@@ -1,12 +1,8 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://195.206.182.59" />
-          <option name="userName" value="m.dalvand" />
-        </UrlAndUserName>
-      </list>
-    </option>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

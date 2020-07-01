@@ -1,10 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
       <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="last_opened_file_path" value="C:/server/php/php.exe" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
       </component>
     </defaultProject>
   </component>
