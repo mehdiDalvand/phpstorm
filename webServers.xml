@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="177b7110-2b54-4dea-b178-5a4fb46f0aa8" name="social_actions_rc">
+        <fileTransfer rootFolder="/home/hamoon" accessType="SFTP" host="178.63.41.51" port="10916" sshConfigId="d0bddc25-454f-4843-b175-17d77cc1764d" sshConfig="hamoon@178.63.41.51:10916 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
