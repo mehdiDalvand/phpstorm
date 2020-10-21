@@ -2,7 +2,17 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
   </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+  </yaml>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <option name="SPACE_WITHIN_BRACKETS" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="false" />
   </codeStyleSettings>
 </code_scheme>
