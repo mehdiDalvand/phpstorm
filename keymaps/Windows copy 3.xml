@@ -12,4 +12,5 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
