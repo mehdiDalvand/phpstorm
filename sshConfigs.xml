@@ -1,7 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="178.63.41.51" id="d0bddc25-454f-4843-b175-17d77cc1764d" port="10916" nameFormat="DESCRIPTIVE" username="hamoon" />
+      <sshConfig host="78.46.108.197" id="a14b992f-d223-49db-ac43-9e80b4ab6954" keyPath="$USER_HOME$/.ssh/id_rsa" port="10916" customName="develop" nameFormat="CUSTOM" username="hamoon">
+        <option name="customName" value="develop" />
+      </sshConfig>
     </configs>
   </component>
 </application>
