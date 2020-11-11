@@ -12,13 +12,6 @@
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
   </codeStyleSettings>
-  <codeStyleSettings language="Python">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <option name="SPACE_WITHIN_BRACKETS" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="false" />
