@@ -1,6 +1,11 @@
 <code_scheme name="Default" version="173">
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_INLINE_COMMENTS" value="true" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
   </PHPCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -9,8 +14,13 @@
     <option name="INDENT_SEQUENCE_VALUE" value="false" />
   </yaml>
   <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <option name="SPACE_WITHIN_BRACKETS" value="false" />
