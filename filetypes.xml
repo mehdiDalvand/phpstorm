@@ -1,7 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
+      <mapping pattern=".gitkeep" type="GitIgnore file" />
+      <mapping ext="ng" type="HTML" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="database" type="PLAIN_TEXT" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
