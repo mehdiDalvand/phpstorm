@@ -4,6 +4,9 @@
       <sshConfig host="78.46.108.197" id="a14b992f-d223-49db-ac43-9e80b4ab6954" keyPath="$USER_HOME$/.ssh/id_rsa" port="10916" customName="develop" nameFormat="CUSTOM" username="hamoon">
         <option name="customName" value="develop" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="82.102.8.12" id="67c8e2ab-6f21-4dc4-99cc-9a9b2e857592" port="10916" customName="test" nameFormat="CUSTOM" username="matthew">
+        <option name="customName" value="test" />
+      </sshConfig>
     </configs>
   </component>
 </application>
