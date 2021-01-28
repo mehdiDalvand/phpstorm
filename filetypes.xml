@@ -7,10 +7,10 @@
       <mapping ext="database" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="ssss" type="SQL" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
