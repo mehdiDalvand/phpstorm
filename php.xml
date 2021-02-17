@@ -10,7 +10,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.0">
-        <phpinfo binary_type="PHP" php_cgi="C:\server\php\php-cgi.exe" php_cli="C:\server\php\php.exe" path_separator=";" version="8.0.0">
+        <phpinfo binary_type="PHP" php_cgi="C:\server\php\php-cgi.exe" php_cli="C:\server\php\php.exe" path_separator=";" version="7.4.7">
           <additional_php_ini />
           <configuration_file>C:\server\php\php.ini</configuration_file>
           <configuration_options>
@@ -52,6 +52,7 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -61,9 +62,12 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
+            <extension name="rdkafka" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
+            <extension name="solr" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="xdebug" />
