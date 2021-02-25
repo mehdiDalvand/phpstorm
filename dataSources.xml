@@ -13,7 +13,7 @@
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://ha.dataak.com:3306</jdbc-url>
+      <jdbc-url>jdbc:mariadb://109.169.41.75:3390</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
@@ -22,7 +22,7 @@
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://ha.dataak.com:3306</jdbc-url>
+      <jdbc-url>jdbc:mariadb://109.169.41.75:3390</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="prism_master" uuid="e728b482-2732-48f4-aecc-4ba218a3c4f7">
       <driver-ref>mariadb</driver-ref>
