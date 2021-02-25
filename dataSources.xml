@@ -10,19 +10,19 @@
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="prism_release" uuid="62694142-a03a-4937-800a-c70ca252facf">
-      <driver-ref>mariadb</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://109.169.41.75:3390</jdbc-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://109.169.41.75:3390</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="prism_develop" uuid="5246af7b-9ecf-4842-ac91-c807fbd3ee8a">
-      <driver-ref>mariadb</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://109.169.41.75:3390</jdbc-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://109.169.41.75:3390</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="prism_master" uuid="e728b482-2732-48f4-aecc-4ba218a3c4f7">
       <driver-ref>mariadb</driver-ref>
