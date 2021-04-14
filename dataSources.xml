@@ -28,7 +28,7 @@
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://ha.dataak.com:3306</jdbc-url>
+      <jdbc-url>jdbc:mariadb://mysql.dataak.com:3306</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="MySQL - @localhost" uuid="10815f12-4fd1-4978-80dd-eb9a9397f172">
       <driver-ref>mysql.8</driver-ref>
