@@ -22,7 +22,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://109.169.41.75:3390</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.20.20.88:3390</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="prism_master" uuid="e728b482-2732-48f4-aecc-4ba218a3c4f7">
       <driver-ref>mariadb</driver-ref>
