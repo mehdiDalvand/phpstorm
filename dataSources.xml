@@ -42,5 +42,12 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://ha.dataak.com</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="dynamic_index_analyzer@mysql.dataak.com" uuid="ba03c7dc-e4e3-412a-9b56-780c95babb89">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://mysql.dataak.com:3306/dynamic_index_analyzer</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
