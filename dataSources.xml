@@ -13,7 +13,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://109.169.41.75:3390</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.30.30.70:3306</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
