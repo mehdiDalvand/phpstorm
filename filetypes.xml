@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern=".php_cs.cache" type="JSON" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
