@@ -1,0 +1,11 @@
+<application>
+  <component name="OSFileAssociationPreferences">
+    <option name="fileTypeNames">
+      <list>
+        <option value="Dockerfile" />
+        <option value="YAML" />
+      </list>
+    </option>
+    <option name="ideLocationHash" value="8C6BA3746C976B227DC0D3E35A21285C" />
+  </component>
+</application>
