@@ -5,6 +5,7 @@
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="docker-compose.yml.local" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="GitIgnore file" />
+      <mapping pattern="*.json.example" type="JSON" />
       <mapping pattern=".php_cs.cache" type="JSON" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
