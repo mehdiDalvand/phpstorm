@@ -16,12 +16,15 @@
       <mapping ext="database" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="ssss" type="SQL" />
-      <mapping pattern="docker-compose.yml.dev" type="YAML" />
+      <mapping pattern="*.yml.example" type="YAML" />
+      <mapping pattern="*.yml.dev" type="YAML" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".yml.dev" approved="true" type="YAML" />
+      <removed_mapping pattern="docker-compose.yml.dev" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
