@@ -4,7 +4,7 @@
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://ha.dataak.com:3306</jdbc-url>
+      <jdbc-url>jdbc:mariadb://own-mysql.dataak.com:3306</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
